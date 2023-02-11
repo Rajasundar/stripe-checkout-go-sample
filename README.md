@@ -1,8 +1,8 @@
-# Accept a Payment with Stripe Checkout
+### stripe checkout sample
 
 Stripe Checkout sample is a test project to get started with stripe payments with golang. Included are some basic build and run scripts you can use to start up the application.
 
-## Running the sample
+#### Running the sample
 
 1. Start the server
 
